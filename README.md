@@ -5,7 +5,7 @@ GraphQL TypeScript boilerplate
 - Login into prisma using `npx prisma login`
 - Create an `.env` file in the project root (copy from .env.example file)
 - Add your prisma endpoint in the .env file
-- Run `yarn` (recommended) or `npm install`
+- Run `yarn` **(recommended)** or `npm install`
 
 ### To run the development server
 
