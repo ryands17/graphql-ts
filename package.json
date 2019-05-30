@@ -69,5 +69,8 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "peerDependencies": {
+    "axios": "^0.19.0"
   }
 }
